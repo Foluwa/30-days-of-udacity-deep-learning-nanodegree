@@ -2,4 +2,4 @@
 
 ## Day 1/30
 
-### Tranfter Learning
+	Transfer Learning
