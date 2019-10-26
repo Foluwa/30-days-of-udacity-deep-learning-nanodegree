@@ -1,5 +1,7 @@
 # 30-days-of-udacity-deep-learning-nanodegree
 
-## Day 1/30
+## My pledge "30 days of udacity" for the Deep Learning nanodegree.
 
-	Transfer Learning
+###
+
+- [Day 1](Day1/Day1/md)				
