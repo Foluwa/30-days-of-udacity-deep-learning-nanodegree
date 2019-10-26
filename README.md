@@ -4,4 +4,4 @@
 
 ###
 
-- [Day 1]('/Day1/Day1.md')				
+- [Day 1](Day1/Day1.md)				
