@@ -2,7 +2,7 @@
 
 
 
-## Day 1: September 24, 2019
+## Day 1: October 26, 2019
 - I started Transfer learning CNN and learnt about [ImageNet](http://www.image-net.org/).
 - I also read about VGG Neural Networks.
 - I started my pledge "30 Days of Udacity" for the Deep Learning nanodegree.
