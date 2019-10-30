@@ -2,19 +2,20 @@
 
 
 
-## Day 5: Octoberber 27, 2019
-- I started Weight Initialization lesson and constant weights .
+## Day 5: October 27, 2019
+- I started Lesson 7: Deep learning with Pytorch.
 
-Vecotors are instance of a tensor.
+Vectors are instance of a tensor.
 
-A tensor with one dimension is a vector
+[Tensors]https://machinelearningmastery.com/introduction-to-tensors-for-machine-learning/) are basic data structure that you use in deep learning frameworks. 
 
-A 2 dimensional tensor has its value spaning from left to right and up to down
+	- A tensor with one dimension is a vector.
 
-A 3 dimensional tensor example is an RGB color image
+	- A 2 dimensional tensor has its value spaning from left to right and up to down
 
-- I awatched videos from each lessons listed above and  read [Logistic Regression with Gradient Descent in JavaScript](https://www.robinwieruch.de/logistic-regression-gradient-descent-classification-javascript)
+	- A 3 dimensional tensor example is an RGB color image
 
+Features are input data for your network.
 
 
 ![Tensors](tensors.png)
