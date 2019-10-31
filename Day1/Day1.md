@@ -12,5 +12,7 @@
 
 
 - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
+
 - [Dermatologist-level classification of skin cancer with deep neural network](https://www.nature.com/articles/nature21056.epdf)
+
 - [Very Deep Cconvolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
