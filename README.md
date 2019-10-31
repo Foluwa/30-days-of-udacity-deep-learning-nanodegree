@@ -12,4 +12,6 @@
 
 - [Day 4](Day4/Day4.md)	
 
-- [Day 5](Day5/Day5.md)				
+- [Day 5](Day5/Day5.md)	
+
+- [Day 6](Day6/Day6.md)	
